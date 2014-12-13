@@ -1,0 +1,101 @@
+digraph
+{
+graph [ordering = "out"]
+v54 [label = "LET"];
+v54 -> v50;
+v54 -> v53;
+v50 [label = "Function
+Declaration
+(PrintPrimesInRange)"];
+v50 -> v3;
+v3 [label = "Type
+Fields"];
+v3 -> v2;
+v2 [label = "start:int"];
+v3 -> v1;
+v1 [label = "Type
+Fields"];
+v1 -> v0;
+v0 [label = "finish:int"];
+v50 -> v49;
+v49 [label = "LET"];
+v49 -> v36;
+v49 -> v48;
+v36 [label = "Function
+Declaration
+(IsPrime)"];
+v36 -> v5;
+v5 [label = "Type
+Fields"];
+v5 -> v4;
+v4 [label = "p:int"];
+v36 -> v35;
+v35 [label = "LET"];
+v35 -> v7;
+v35 -> v34;
+v7 v7 [label = "Variable
+Declaration
+(returnedValue)"];
+v6 [label = "INT(1)"];
+v34 [label = "SEQ"];
+v34 -> v31;
+v34 -> v33;
+v31 [label = "FOR"];
+v31 -> v8;
+v31 -> v12;
+v31 -> v30;
+v8 [label = "INT(2)"];
+v12 [label = "OP"];
+v12 -> v10;
+v12 -> v11;
+v10 [label = "VAR(p)"];
+v11 [label = "INT(1)"];
+v30 [label = "FOR"];
+v30 -> v13;
+v30 -> v17;
+v30 -> v29;
+v13 [label = "INT(2)"];
+v17 [label = "OP"];
+v17 -> v15;
+v17 -> v16;
+v15 [label = "VAR(p)"];
+v16 [label = "INT(1)"];
+v29 [label = "IF"];
+v29 -> v25;
+v29 -> v28;
+v25 [label = "OP"];
+v25 -> v22;
+v25 -> v24;
+v22 [label = "OP"];
+v22 -> v19;
+v22 -> v21;
+v19 [label = "VAR(i)"];
+v21 [label = "VAR(j)"];
+v24 [label = "VAR(p)"];
+v28 [label = "ASSIGN"];
+v33 [label = "VAR(returnedValue)"];
+v48 [label = "FOR"];
+v48 -> v38;
+v48 -> v40;
+v48 -> v47;
+v38 [label = "VAR(start)"];
+v40 [label = "VAR(finish)"];
+v47 [label = "IF"];
+v47 -> v43;
+v47 -> v46;
+v43 [label = "CALL
+(IsPrime)"];
+v43 -> v42;
+v42 [label = "VAR(i)"];
+v46 [label = "CALL
+(PrintInt)"];
+v46 -> v45;
+v45 [label = "VAR(i)"];
+v53 [label = "CALL
+(PrintPrimesInRange)"];
+v53 -> v51;
+v53 -> v52;
+v51 [label = "INT(1)"];
+v52 [label = "INT(25)"];
+
+}

@@ -1,0 +1,2818 @@
+
+
+Terminals which are not used:
+
+   ELSE
+   WHILE
+   BREAK
+
+
+Conflict in state 59 between rule 14 and token PLUS resolved as reduce.
+Conflict in state 59 between rule 14 and token MINUS resolved as reduce.
+Conflict in state 59 between rule 14 and token TIMES resolved as shift.
+Conflict in state 59 between rule 14 and token DIVIDE resolved as shift.
+Conflict in state 59 between rule 14 and token EQ resolved as reduce.
+Conflict in state 59 between rule 14 and token NEQ resolved as reduce.
+Conflict in state 59 between rule 14 and token LT resolved as reduce.
+Conflict in state 59 between rule 14 and token LE resolved as reduce.
+Conflict in state 59 between rule 14 and token GT resolved as reduce.
+Conflict in state 59 between rule 14 and token GE resolved as reduce.
+Conflict in state 59 between rule 14 and token AND resolved as reduce.
+Conflict in state 59 between rule 14 and token OR resolved as reduce.
+Conflict in state 60 between rule 15 and token PLUS resolved as reduce.
+Conflict in state 60 between rule 15 and token MINUS resolved as reduce.
+Conflict in state 60 between rule 15 and token TIMES resolved as shift.
+Conflict in state 60 between rule 15 and token DIVIDE resolved as shift.
+Conflict in state 60 between rule 15 and token EQ resolved as reduce.
+Conflict in state 60 between rule 15 and token NEQ resolved as reduce.
+Conflict in state 60 between rule 15 and token LT resolved as reduce.
+Conflict in state 60 between rule 15 and token LE resolved as reduce.
+Conflict in state 60 between rule 15 and token GT resolved as reduce.
+Conflict in state 60 between rule 15 and token GE resolved as reduce.
+Conflict in state 60 between rule 15 and token AND resolved as reduce.
+Conflict in state 60 between rule 15 and token OR resolved as reduce.
+Conflict in state 61 between rule 16 and token PLUS resolved as reduce.
+Conflict in state 61 between rule 16 and token MINUS resolved as reduce.
+Conflict in state 61 between rule 16 and token TIMES resolved as reduce.
+Conflict in state 61 between rule 16 and token DIVIDE resolved as reduce.
+Conflict in state 61 between rule 16 and token EQ resolved as reduce.
+Conflict in state 61 between rule 16 and token NEQ resolved as reduce.
+Conflict in state 61 between rule 16 and token LT resolved as reduce.
+Conflict in state 61 between rule 16 and token LE resolved as reduce.
+Conflict in state 61 between rule 16 and token GT resolved as reduce.
+Conflict in state 61 between rule 16 and token GE resolved as reduce.
+Conflict in state 61 between rule 16 and token AND resolved as reduce.
+Conflict in state 61 between rule 16 and token OR resolved as reduce.
+Conflict in state 62 between rule 17 and token PLUS resolved as reduce.
+Conflict in state 62 between rule 17 and token MINUS resolved as reduce.
+Conflict in state 62 between rule 17 and token TIMES resolved as reduce.
+Conflict in state 62 between rule 17 and token DIVIDE resolved as reduce.
+Conflict in state 62 between rule 17 and token EQ resolved as reduce.
+Conflict in state 62 between rule 17 and token NEQ resolved as reduce.
+Conflict in state 62 between rule 17 and token LT resolved as reduce.
+Conflict in state 62 between rule 17 and token LE resolved as reduce.
+Conflict in state 62 between rule 17 and token GT resolved as reduce.
+Conflict in state 62 between rule 17 and token GE resolved as reduce.
+Conflict in state 62 between rule 17 and token AND resolved as reduce.
+Conflict in state 62 between rule 17 and token OR resolved as reduce.
+Conflict in state 63 between rule 18 and token PLUS resolved as shift.
+Conflict in state 63 between rule 18 and token MINUS resolved as shift.
+Conflict in state 63 between rule 18 and token TIMES resolved as shift.
+Conflict in state 63 between rule 18 and token DIVIDE resolved as shift.
+Conflict in state 63 between rule 18 and token EQ resolved as reduce.
+Conflict in state 63 between rule 18 and token NEQ resolved as reduce.
+Conflict in state 63 between rule 18 and token LT resolved as reduce.
+Conflict in state 63 between rule 18 and token LE resolved as reduce.
+Conflict in state 63 between rule 18 and token GT resolved as reduce.
+Conflict in state 63 between rule 18 and token GE resolved as reduce.
+Conflict in state 63 between rule 18 and token AND resolved as reduce.
+Conflict in state 63 between rule 18 and token OR resolved as reduce.
+Conflict in state 64 between rule 19 and token PLUS resolved as shift.
+Conflict in state 64 between rule 19 and token MINUS resolved as shift.
+Conflict in state 64 between rule 19 and token TIMES resolved as shift.
+Conflict in state 64 between rule 19 and token DIVIDE resolved as shift.
+Conflict in state 64 between rule 19 and token EQ resolved as reduce.
+Conflict in state 64 between rule 19 and token NEQ resolved as reduce.
+Conflict in state 64 between rule 19 and token LT resolved as reduce.
+Conflict in state 64 between rule 19 and token LE resolved as reduce.
+Conflict in state 64 between rule 19 and token GT resolved as reduce.
+Conflict in state 64 between rule 19 and token GE resolved as reduce.
+Conflict in state 64 between rule 19 and token AND resolved as reduce.
+Conflict in state 64 between rule 19 and token OR resolved as reduce.
+Conflict in state 65 between rule 20 and token PLUS resolved as shift.
+Conflict in state 65 between rule 20 and token MINUS resolved as shift.
+Conflict in state 65 between rule 20 and token TIMES resolved as shift.
+Conflict in state 65 between rule 20 and token DIVIDE resolved as shift.
+Conflict in state 65 between rule 20 and token EQ resolved as reduce.
+Conflict in state 65 between rule 20 and token NEQ resolved as reduce.
+Conflict in state 65 between rule 20 and token LT resolved as reduce.
+Conflict in state 65 between rule 20 and token LE resolved as reduce.
+Conflict in state 65 between rule 20 and token GT resolved as reduce.
+Conflict in state 65 between rule 20 and token GE resolved as reduce.
+Conflict in state 65 between rule 20 and token AND resolved as reduce.
+Conflict in state 65 between rule 20 and token OR resolved as reduce.
+Conflict in state 66 between rule 21 and token PLUS resolved as shift.
+Conflict in state 66 between rule 21 and token MINUS resolved as shift.
+Conflict in state 66 between rule 21 and token TIMES resolved as shift.
+Conflict in state 66 between rule 21 and token DIVIDE resolved as shift.
+Conflict in state 66 between rule 21 and token EQ resolved as reduce.
+Conflict in state 66 between rule 21 and token NEQ resolved as reduce.
+Conflict in state 66 between rule 21 and token LT resolved as reduce.
+Conflict in state 66 between rule 21 and token LE resolved as reduce.
+Conflict in state 66 between rule 21 and token GT resolved as reduce.
+Conflict in state 66 between rule 21 and token GE resolved as reduce.
+Conflict in state 66 between rule 21 and token AND resolved as reduce.
+Conflict in state 66 between rule 21 and token OR resolved as reduce.
+Conflict in state 67 between rule 22 and token PLUS resolved as shift.
+Conflict in state 67 between rule 22 and token MINUS resolved as shift.
+Conflict in state 67 between rule 22 and token TIMES resolved as shift.
+Conflict in state 67 between rule 22 and token DIVIDE resolved as shift.
+Conflict in state 67 between rule 22 and token EQ resolved as reduce.
+Conflict in state 67 between rule 22 and token NEQ resolved as reduce.
+Conflict in state 67 between rule 22 and token LT resolved as reduce.
+Conflict in state 67 between rule 22 and token LE resolved as reduce.
+Conflict in state 67 between rule 22 and token GT resolved as reduce.
+Conflict in state 67 between rule 22 and token GE resolved as reduce.
+Conflict in state 67 between rule 22 and token AND resolved as reduce.
+Conflict in state 67 between rule 22 and token OR resolved as reduce.
+Conflict in state 68 between rule 23 and token PLUS resolved as shift.
+Conflict in state 68 between rule 23 and token MINUS resolved as shift.
+Conflict in state 68 between rule 23 and token TIMES resolved as shift.
+Conflict in state 68 between rule 23 and token DIVIDE resolved as shift.
+Conflict in state 68 between rule 23 and token EQ resolved as reduce.
+Conflict in state 68 between rule 23 and token NEQ resolved as reduce.
+Conflict in state 68 between rule 23 and token LT resolved as reduce.
+Conflict in state 68 between rule 23 and token LE resolved as reduce.
+Conflict in state 68 between rule 23 and token GT resolved as reduce.
+Conflict in state 68 between rule 23 and token GE resolved as reduce.
+Conflict in state 68 between rule 23 and token AND resolved as reduce.
+Conflict in state 68 between rule 23 and token OR resolved as reduce.
+Conflict in state 69 between rule 24 and token PLUS resolved as shift.
+Conflict in state 69 between rule 24 and token MINUS resolved as shift.
+Conflict in state 69 between rule 24 and token TIMES resolved as shift.
+Conflict in state 69 between rule 24 and token DIVIDE resolved as shift.
+Conflict in state 69 between rule 24 and token EQ resolved as shift.
+Conflict in state 69 between rule 24 and token NEQ resolved as shift.
+Conflict in state 69 between rule 24 and token LT resolved as shift.
+Conflict in state 69 between rule 24 and token LE resolved as shift.
+Conflict in state 69 between rule 24 and token GT resolved as shift.
+Conflict in state 69 between rule 24 and token GE resolved as shift.
+Conflict in state 69 between rule 24 and token AND resolved as reduce.
+Conflict in state 69 between rule 24 and token OR resolved as reduce.
+Conflict in state 70 between rule 25 and token PLUS resolved as shift.
+Conflict in state 70 between rule 25 and token MINUS resolved as shift.
+Conflict in state 70 between rule 25 and token TIMES resolved as shift.
+Conflict in state 70 between rule 25 and token DIVIDE resolved as shift.
+Conflict in state 70 between rule 25 and token EQ resolved as shift.
+Conflict in state 70 between rule 25 and token NEQ resolved as shift.
+Conflict in state 70 between rule 25 and token LT resolved as shift.
+Conflict in state 70 between rule 25 and token LE resolved as shift.
+Conflict in state 70 between rule 25 and token GT resolved as shift.
+Conflict in state 70 between rule 25 and token GE resolved as shift.
+Conflict in state 70 between rule 25 and token AND resolved as reduce.
+Conflict in state 70 between rule 25 and token OR resolved as reduce.
+Conflict in state 74 between rule 62 and token PLUS resolved as shift.
+Conflict in state 74 between rule 62 and token MINUS resolved as shift.
+Conflict in state 74 between rule 62 and token TIMES resolved as shift.
+Conflict in state 74 between rule 62 and token DIVIDE resolved as shift.
+Conflict in state 74 between rule 62 and token EQ resolved as shift.
+Conflict in state 74 between rule 62 and token NEQ resolved as shift.
+Conflict in state 74 between rule 62 and token LT resolved as shift.
+Conflict in state 74 between rule 62 and token LE resolved as shift.
+Conflict in state 74 between rule 62 and token GT resolved as shift.
+Conflict in state 74 between rule 62 and token GE resolved as shift.
+Conflict in state 74 between rule 62 and token AND resolved as shift.
+Conflict in state 74 between rule 62 and token OR resolved as shift.
+Conflict in state 81 between rule 26 and token PLUS resolved as shift.
+Conflict in state 81 between rule 26 and token MINUS resolved as shift.
+Conflict in state 81 between rule 26 and token TIMES resolved as shift.
+Conflict in state 81 between rule 26 and token DIVIDE resolved as shift.
+Conflict in state 81 between rule 26 and token EQ resolved as shift.
+Conflict in state 81 between rule 26 and token NEQ resolved as shift.
+Conflict in state 81 between rule 26 and token LT resolved as shift.
+Conflict in state 81 between rule 26 and token LE resolved as shift.
+Conflict in state 81 between rule 26 and token GT resolved as shift.
+Conflict in state 81 between rule 26 and token GE resolved as shift.
+Conflict in state 81 between rule 26 and token AND resolved as shift.
+Conflict in state 81 between rule 26 and token OR resolved as shift.
+Conflict in state 128 between rule 27 and token PLUS resolved as shift.
+Conflict in state 128 between rule 27 and token MINUS resolved as shift.
+Conflict in state 128 between rule 27 and token TIMES resolved as shift.
+Conflict in state 128 between rule 27 and token DIVIDE resolved as shift.
+Conflict in state 128 between rule 27 and token EQ resolved as shift.
+Conflict in state 128 between rule 27 and token NEQ resolved as shift.
+Conflict in state 128 between rule 27 and token LT resolved as shift.
+Conflict in state 128 between rule 27 and token LE resolved as shift.
+Conflict in state 128 between rule 27 and token GT resolved as shift.
+Conflict in state 128 between rule 27 and token GE resolved as shift.
+Conflict in state 128 between rule 27 and token AND resolved as shift.
+Conflict in state 128 between rule 27 and token OR resolved as shift.
+State 73 contains 1 shift/reduce conflict.
+
+Grammar
+rule 1    program -> exp
+rule 2    exp -> INT
+rule 3    exp -> FLOAT
+rule 4    exp -> STRING
+rule 5    exp -> lvalue
+rule 6    exp -> SequenceExp
+rule 7    exp -> LPAREN exp RPAREN
+rule 8    exp -> LetExp
+rule 9    exp -> ForExp
+rule 10   exp -> IfThenExp
+rule 11   exp -> AssignExp
+rule 12   exp -> OpExp
+rule 13   exp -> CallExp
+rule 14   OpExp -> exp PLUS exp
+rule 15   OpExp -> exp MINUS exp
+rule 16   OpExp -> exp TIMES exp
+rule 17   OpExp -> exp DIVIDE exp
+rule 18   OpExp -> exp EQ exp
+rule 19   OpExp -> exp NEQ exp
+rule 20   OpExp -> exp LT exp
+rule 21   OpExp -> exp LE exp
+rule 22   OpExp -> exp GT exp
+rule 23   OpExp -> exp GE exp
+rule 24   OpExp -> exp AND exp
+rule 25   OpExp -> exp OR exp
+rule 26   IfThenExp -> IF exp THEN exp
+rule 27   ForExp -> FOR ID ASSIGN exp TO exp DO exp
+rule 28   ListExpSemicolon -> exp SEMICOLON ListExpSemicolon
+rule 29   ListExpSemicolon -> exp SEMICOLON exp
+rule 30   ListExpComma -> exp COMMA ListExpComma
+rule 31   ListExpComma -> exp
+rule 32   SequenceExp -> LPAREN ListExpSemicolon RPAREN
+rule 33   TypeFields -> ID COLON ID COMMA TypeFields
+rule 34   TypeFields -> ID COLON ID
+rule 35   TypeDeclaration -> TYPE ID EQ ID
+rule 36   TypeDeclaration -> TYPE ID EQ ARRAY OF ID
+rule 37   TypeDeclaration -> TYPE ID EQ LBRACE TypeFields RBRACE
+rule 38   AllocateArrayExp -> ID LBRACK INT RBRACK OF NIL
+rule 39   AllocateArrayExp -> ID LBRACK INT RBRACK OF INT
+rule 40   AllocateArrayExp -> ID LBRACK INT RBRACK OF FLOAT
+rule 41   AllocateRecordExp -> ID LBRACE ListExpComma RBRACE
+rule 42   VariableDeclaration -> VAR ID COLON ID
+rule 43   VariableDeclaration -> VAR ID ASSIGN exp
+rule 44   VariableDeclaration -> VAR ID ASSIGN AllocateArrayExp
+rule 45   VariableDeclaration -> VAR ID ASSIGN AllocateRecordExp
+rule 46   VariableDeclaration -> VAR ID COLON ID ASSIGN exp
+rule 47   VariableDeclaration -> VAR ID COLON ID ASSIGN AllocateArrayExp
+rule 48   VariableDeclaration -> VAR ID COLON ID ASSIGN AllocateRecordExp
+rule 49   FunctionDeclaration -> FUNCTION ID LPAREN RPAREN EQ exp
+rule 50   FunctionDeclaration -> FUNCTION ID LPAREN RPAREN COLON ID EQ exp
+rule 51   FunctionDeclaration -> FUNCTION ID LPAREN TypeFields RPAREN EQ exp
+rule 52   FunctionDeclaration -> FUNCTION ID LPAREN TypeFields RPAREN COLON ID EQ exp
+rule 53   declaration -> TypeDeclaration
+rule 54   declaration -> VariableDeclaration
+rule 55   declaration -> FunctionDeclaration
+rule 56   declarations -> declaration declarations
+rule 57   declarations -> declaration
+rule 58   LetExp -> LET declarations IN exp END
+rule 59   lvalue -> ID
+rule 60   lvalue -> lvalue ARROW ID
+rule 61   lvalue -> lvalue LBRACK exp RBRACK
+rule 62   AssignExp -> lvalue ASSIGN exp
+rule 63   AssignExp -> lvalue ASSIGN AllocateArrayExp
+rule 64   AssignExp -> lvalue ASSIGN AllocateRecordExp
+rule 65   CallExp -> ID LPAREN ListExpComma RPAREN
+rule 66   CallExp -> ID LPAREN RPAREN
+
+Terminals, with rules where they appear
+
+$ (-1)
+error (256)
+INT (258) 2 38 39 40
+FLOAT (259) 3 40
+STRING (260) 4
+ID (261) 27 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51
+    52 59 60 65 66
+COMMA (262) 30 33
+COLON (263) 33 34 42 46 47 48 50 52
+SEMICOLON (264) 28 29
+LPAREN (265) 7 32 49 50 51 52 65 66
+RPAREN (266) 7 32 49 50 51 52 65 66
+LBRACK (267) 38 39 40 61
+RBRACK (268) 38 39 40 61
+LBRACE (269) 37 41
+RBRACE (270) 37 41
+ARROW (271) 60
+PLUS (272) 14
+MINUS (273) 15
+TIMES (274) 16
+DIVIDE (275) 17
+EQ (276) 18 35 36 37 49 50 51 52
+NEQ (277) 19
+LT (278) 20
+LE (279) 21
+GT (280) 22
+GE (281) 23
+AND (282) 24
+OR (283) 25
+ASSIGN (284) 27 43 44 45 46 47 48 62 63 64
+ARRAY (285) 36
+IF (286) 26
+THEN (287) 26
+ELSE (288)
+WHILE (289)
+FOR (290) 27
+TO (291) 27
+DO (292) 27
+LET (293) 58
+IN (294) 58
+END (295) 58
+OF (296) 36 38 39 40
+BREAK (297)
+NIL (298) 38
+FUNCTION (299) 49 50 51 52
+VAR (300) 42 43 44 45 46 47 48
+TYPE (301) 35 36 37
+
+Nonterminals, with rules where they appear
+
+program (47)
+    on left: 1
+exp (48)
+    on left: 2 3 4 5 6 7 8 9 10 11 12 13, on right: 1 7 14 15 16 17
+    18 19 20 21 22 23 24 25 26 27 28 29 30 31 43 46 49 50 51 52 58
+    61 62
+OpExp (49)
+    on left: 14 15 16 17 18 19 20 21 22 23 24 25, on right: 12
+IfThenExp (50)
+    on left: 26, on right: 10
+ForExp (51)
+    on left: 27, on right: 9
+ListExpSemicolon (52)
+    on left: 28 29, on right: 28 32
+ListExpComma (53)
+    on left: 30 31, on right: 30 41 65
+SequenceExp (54)
+    on left: 32, on right: 6
+TypeFields (55)
+    on left: 33 34, on right: 33 37 51 52
+TypeDeclaration (56)
+    on left: 35 36 37, on right: 53
+AllocateArrayExp (57)
+    on left: 38 39 40, on right: 44 47 63
+AllocateRecordExp (58)
+    on left: 41, on right: 45 48 64
+VariableDeclaration (59)
+    on left: 42 43 44 45 46 47 48, on right: 54
+FunctionDeclaration (60)
+    on left: 49 50 51 52, on right: 55
+declaration (61)
+    on left: 53 54 55, on right: 56 57
+declarations (62)
+    on left: 56 57, on right: 56 58
+LetExp (63)
+    on left: 58, on right: 8
+lvalue (64)
+    on left: 59 60 61, on right: 5 60 61 62 63 64
+AssignExp (65)
+    on left: 62 63 64, on right: 11
+CallExp (66)
+    on left: 65 66, on right: 13
+
+
+state 0
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    program	go to state 140
+    exp 	go to state 9
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 1
+
+    exp  ->  INT .   (rule 2)
+
+    $default	reduce using rule 2 (exp)
+
+
+
+state 2
+
+    exp  ->  FLOAT .   (rule 3)
+
+    $default	reduce using rule 3 (exp)
+
+
+
+state 3
+
+    exp  ->  STRING .   (rule 4)
+
+    $default	reduce using rule 4 (exp)
+
+
+
+state 4
+
+    lvalue  ->  ID .   (rule 59)
+    CallExp  ->  ID . LPAREN ListExpComma RPAREN   (rule 65)
+    CallExp  ->  ID . LPAREN RPAREN   (rule 66)
+
+    LPAREN	shift, and go to state 18
+
+    $default	reduce using rule 59 (lvalue)
+
+
+
+state 5
+
+    exp  ->  LPAREN . exp RPAREN   (rule 7)
+    SequenceExp  ->  LPAREN . ListExpSemicolon RPAREN   (rule 32)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 19
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    ListExpSemicolon	go to state 20
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 6
+
+    IfThenExp  ->  IF . exp THEN exp   (rule 26)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 21
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 7
+
+    ForExp  ->  FOR . ID ASSIGN exp TO exp DO exp   (rule 27)
+
+    ID  	shift, and go to state 22
+
+
+
+state 8
+
+    LetExp  ->  LET . declarations IN exp END   (rule 58)
+
+    FUNCTION	shift, and go to state 23
+    VAR 	shift, and go to state 24
+    TYPE	shift, and go to state 25
+
+    TypeDeclaration	go to state 26
+    VariableDeclaration	go to state 27
+    FunctionDeclaration	go to state 28
+    declaration	go to state 29
+    declarations	go to state 30
+
+
+
+state 9
+
+    program  ->  exp .   (rule 1)
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 1 (program)
+
+
+
+state 10
+
+    exp  ->  OpExp .   (rule 12)
+
+    $default	reduce using rule 12 (exp)
+
+
+
+state 11
+
+    exp  ->  IfThenExp .   (rule 10)
+
+    $default	reduce using rule 10 (exp)
+
+
+
+state 12
+
+    exp  ->  ForExp .   (rule 9)
+
+    $default	reduce using rule 9 (exp)
+
+
+
+state 13
+
+    exp  ->  SequenceExp .   (rule 6)
+
+    $default	reduce using rule 6 (exp)
+
+
+
+state 14
+
+    exp  ->  LetExp .   (rule 8)
+
+    $default	reduce using rule 8 (exp)
+
+
+
+state 15
+
+    exp  ->  lvalue .   (rule 5)
+    lvalue  ->  lvalue . ARROW ID   (rule 60)
+    lvalue  ->  lvalue . LBRACK exp RBRACK   (rule 61)
+    AssignExp  ->  lvalue . ASSIGN exp   (rule 62)
+    AssignExp  ->  lvalue . ASSIGN AllocateArrayExp   (rule 63)
+    AssignExp  ->  lvalue . ASSIGN AllocateRecordExp   (rule 64)
+
+    LBRACK	shift, and go to state 43
+    ARROW	shift, and go to state 44
+    ASSIGN	shift, and go to state 45
+
+    $default	reduce using rule 5 (exp)
+
+
+
+state 16
+
+    exp  ->  AssignExp .   (rule 11)
+
+    $default	reduce using rule 11 (exp)
+
+
+
+state 17
+
+    exp  ->  CallExp .   (rule 13)
+
+    $default	reduce using rule 13 (exp)
+
+
+
+state 18
+
+    CallExp  ->  ID LPAREN . ListExpComma RPAREN   (rule 65)
+    CallExp  ->  ID LPAREN . RPAREN   (rule 66)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    RPAREN	shift, and go to state 46
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 47
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    ListExpComma	go to state 48
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 19
+
+    exp  ->  LPAREN exp . RPAREN   (rule 7)
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    ListExpSemicolon  ->  exp . SEMICOLON ListExpSemicolon   (rule 28)
+    ListExpSemicolon  ->  exp . SEMICOLON exp   (rule 29)
+
+    SEMICOLON	shift, and go to state 49
+    RPAREN	shift, and go to state 50
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+
+
+state 20
+
+    SequenceExp  ->  LPAREN ListExpSemicolon . RPAREN   (rule 32)
+
+    RPAREN	shift, and go to state 51
+
+
+
+state 21
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    IfThenExp  ->  IF exp . THEN exp   (rule 26)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+    THEN	shift, and go to state 52
+
+
+
+state 22
+
+    ForExp  ->  FOR ID . ASSIGN exp TO exp DO exp   (rule 27)
+
+    ASSIGN	shift, and go to state 53
+
+
+
+state 23
+
+    FunctionDeclaration  ->  FUNCTION . ID LPAREN RPAREN EQ exp   (rule 49)
+    FunctionDeclaration  ->  FUNCTION . ID LPAREN RPAREN COLON ID EQ exp   (rule 50)
+    FunctionDeclaration  ->  FUNCTION . ID LPAREN TypeFields RPAREN EQ exp   (rule 51)
+    FunctionDeclaration  ->  FUNCTION . ID LPAREN TypeFields RPAREN COLON ID EQ exp   (rule 52)
+
+    ID  	shift, and go to state 54
+
+
+
+state 24
+
+    VariableDeclaration  ->  VAR . ID COLON ID   (rule 42)
+    VariableDeclaration  ->  VAR . ID ASSIGN exp   (rule 43)
+    VariableDeclaration  ->  VAR . ID ASSIGN AllocateArrayExp   (rule 44)
+    VariableDeclaration  ->  VAR . ID ASSIGN AllocateRecordExp   (rule 45)
+    VariableDeclaration  ->  VAR . ID COLON ID ASSIGN exp   (rule 46)
+    VariableDeclaration  ->  VAR . ID COLON ID ASSIGN AllocateArrayExp   (rule 47)
+    VariableDeclaration  ->  VAR . ID COLON ID ASSIGN AllocateRecordExp   (rule 48)
+
+    ID  	shift, and go to state 55
+
+
+
+state 25
+
+    TypeDeclaration  ->  TYPE . ID EQ ID   (rule 35)
+    TypeDeclaration  ->  TYPE . ID EQ ARRAY OF ID   (rule 36)
+    TypeDeclaration  ->  TYPE . ID EQ LBRACE TypeFields RBRACE   (rule 37)
+
+    ID  	shift, and go to state 56
+
+
+
+state 26
+
+    declaration  ->  TypeDeclaration .   (rule 53)
+
+    $default	reduce using rule 53 (declaration)
+
+
+
+state 27
+
+    declaration  ->  VariableDeclaration .   (rule 54)
+
+    $default	reduce using rule 54 (declaration)
+
+
+
+state 28
+
+    declaration  ->  FunctionDeclaration .   (rule 55)
+
+    $default	reduce using rule 55 (declaration)
+
+
+
+state 29
+
+    declarations  ->  declaration . declarations   (rule 56)
+    declarations  ->  declaration .   (rule 57)
+
+    FUNCTION	shift, and go to state 23
+    VAR 	shift, and go to state 24
+    TYPE	shift, and go to state 25
+
+    $default	reduce using rule 57 (declarations)
+
+    TypeDeclaration	go to state 26
+    VariableDeclaration	go to state 27
+    FunctionDeclaration	go to state 28
+    declaration	go to state 29
+    declarations	go to state 57
+
+
+
+state 30
+
+    LetExp  ->  LET declarations . IN exp END   (rule 58)
+
+    IN  	shift, and go to state 58
+
+
+
+state 31
+
+    OpExp  ->  exp PLUS . exp   (rule 14)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 59
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 32
+
+    OpExp  ->  exp MINUS . exp   (rule 15)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 60
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 33
+
+    OpExp  ->  exp TIMES . exp   (rule 16)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 61
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 34
+
+    OpExp  ->  exp DIVIDE . exp   (rule 17)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 62
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 35
+
+    OpExp  ->  exp EQ . exp   (rule 18)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 63
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 36
+
+    OpExp  ->  exp NEQ . exp   (rule 19)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 64
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 37
+
+    OpExp  ->  exp LT . exp   (rule 20)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 65
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 38
+
+    OpExp  ->  exp LE . exp   (rule 21)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 66
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 39
+
+    OpExp  ->  exp GT . exp   (rule 22)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 67
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 40
+
+    OpExp  ->  exp GE . exp   (rule 23)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 68
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 41
+
+    OpExp  ->  exp AND . exp   (rule 24)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 69
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 42
+
+    OpExp  ->  exp OR . exp   (rule 25)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 70
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 43
+
+    lvalue  ->  lvalue LBRACK . exp RBRACK   (rule 61)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 71
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 44
+
+    lvalue  ->  lvalue ARROW . ID   (rule 60)
+
+    ID  	shift, and go to state 72
+
+
+
+state 45
+
+    AssignExp  ->  lvalue ASSIGN . exp   (rule 62)
+    AssignExp  ->  lvalue ASSIGN . AllocateArrayExp   (rule 63)
+    AssignExp  ->  lvalue ASSIGN . AllocateRecordExp   (rule 64)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 73
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 74
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    AllocateArrayExp	go to state 75
+    AllocateRecordExp	go to state 76
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 46
+
+    CallExp  ->  ID LPAREN RPAREN .   (rule 66)
+
+    $default	reduce using rule 66 (CallExp)
+
+
+
+state 47
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    ListExpComma  ->  exp . COMMA ListExpComma   (rule 30)
+    ListExpComma  ->  exp .   (rule 31)
+
+    COMMA	shift, and go to state 77
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 31 (ListExpComma)
+
+
+
+state 48
+
+    CallExp  ->  ID LPAREN ListExpComma . RPAREN   (rule 65)
+
+    RPAREN	shift, and go to state 78
+
+
+
+state 49
+
+    ListExpSemicolon  ->  exp SEMICOLON . ListExpSemicolon   (rule 28)
+    ListExpSemicolon  ->  exp SEMICOLON . exp   (rule 29)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 79
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    ListExpSemicolon	go to state 80
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 50
+
+    exp  ->  LPAREN exp RPAREN .   (rule 7)
+
+    $default	reduce using rule 7 (exp)
+
+
+
+state 51
+
+    SequenceExp  ->  LPAREN ListExpSemicolon RPAREN .   (rule 32)
+
+    $default	reduce using rule 32 (SequenceExp)
+
+
+
+state 52
+
+    IfThenExp  ->  IF exp THEN . exp   (rule 26)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 81
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 53
+
+    ForExp  ->  FOR ID ASSIGN . exp TO exp DO exp   (rule 27)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 82
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 54
+
+    FunctionDeclaration  ->  FUNCTION ID . LPAREN RPAREN EQ exp   (rule 49)
+    FunctionDeclaration  ->  FUNCTION ID . LPAREN RPAREN COLON ID EQ exp   (rule 50)
+    FunctionDeclaration  ->  FUNCTION ID . LPAREN TypeFields RPAREN EQ exp   (rule 51)
+    FunctionDeclaration  ->  FUNCTION ID . LPAREN TypeFields RPAREN COLON ID EQ exp   (rule 52)
+
+    LPAREN	shift, and go to state 83
+
+
+
+state 55
+
+    VariableDeclaration  ->  VAR ID . COLON ID   (rule 42)
+    VariableDeclaration  ->  VAR ID . ASSIGN exp   (rule 43)
+    VariableDeclaration  ->  VAR ID . ASSIGN AllocateArrayExp   (rule 44)
+    VariableDeclaration  ->  VAR ID . ASSIGN AllocateRecordExp   (rule 45)
+    VariableDeclaration  ->  VAR ID . COLON ID ASSIGN exp   (rule 46)
+    VariableDeclaration  ->  VAR ID . COLON ID ASSIGN AllocateArrayExp   (rule 47)
+    VariableDeclaration  ->  VAR ID . COLON ID ASSIGN AllocateRecordExp   (rule 48)
+
+    COLON	shift, and go to state 84
+    ASSIGN	shift, and go to state 85
+
+
+
+state 56
+
+    TypeDeclaration  ->  TYPE ID . EQ ID   (rule 35)
+    TypeDeclaration  ->  TYPE ID . EQ ARRAY OF ID   (rule 36)
+    TypeDeclaration  ->  TYPE ID . EQ LBRACE TypeFields RBRACE   (rule 37)
+
+    EQ  	shift, and go to state 86
+
+
+
+state 57
+
+    declarations  ->  declaration declarations .   (rule 56)
+
+    $default	reduce using rule 56 (declarations)
+
+
+
+state 58
+
+    LetExp  ->  LET declarations IN . exp END   (rule 58)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 87
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 59
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp PLUS exp .   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 14 (OpExp)
+
+
+
+state 60
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp MINUS exp .   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 15 (OpExp)
+
+
+
+state 61
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp TIMES exp .   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+
+    $default	reduce using rule 16 (OpExp)
+
+
+
+state 62
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp DIVIDE exp .   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+
+    $default	reduce using rule 17 (OpExp)
+
+
+
+state 63
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp EQ exp .   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 18 (OpExp)
+
+
+
+state 64
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp NEQ exp .   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 19 (OpExp)
+
+
+
+state 65
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp LT exp .   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 20 (OpExp)
+
+
+
+state 66
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp LE exp .   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 21 (OpExp)
+
+
+
+state 67
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp GT exp .   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 22 (OpExp)
+
+
+
+state 68
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp GE exp .   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+
+    $default	reduce using rule 23 (OpExp)
+
+
+
+state 69
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp AND exp .   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+
+    $default	reduce using rule 24 (OpExp)
+
+
+
+state 70
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    OpExp  ->  exp OR exp .   (rule 25)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+
+    $default	reduce using rule 25 (OpExp)
+
+
+
+state 71
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    lvalue  ->  lvalue LBRACK exp . RBRACK   (rule 61)
+
+    RBRACK	shift, and go to state 88
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+
+
+state 72
+
+    lvalue  ->  lvalue ARROW ID .   (rule 60)
+
+    $default	reduce using rule 60 (lvalue)
+
+
+
+state 73
+
+    AllocateArrayExp  ->  ID . LBRACK INT RBRACK OF NIL   (rule 38)
+    AllocateArrayExp  ->  ID . LBRACK INT RBRACK OF INT   (rule 39)
+    AllocateArrayExp  ->  ID . LBRACK INT RBRACK OF FLOAT   (rule 40)
+    AllocateRecordExp  ->  ID . LBRACE ListExpComma RBRACE   (rule 41)
+    lvalue  ->  ID .   (rule 59)
+    CallExp  ->  ID . LPAREN ListExpComma RPAREN   (rule 65)
+    CallExp  ->  ID . LPAREN RPAREN   (rule 66)
+
+    LPAREN	shift, and go to state 18
+    LBRACK	shift, and go to state 89
+    LBRACE	shift, and go to state 90
+
+    LBRACK	[reduce using rule 59 (lvalue)]
+    $default	reduce using rule 59 (lvalue)
+
+
+
+state 74
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    AssignExp  ->  lvalue ASSIGN exp .   (rule 62)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 62 (AssignExp)
+
+
+
+state 75
+
+    AssignExp  ->  lvalue ASSIGN AllocateArrayExp .   (rule 63)
+
+    $default	reduce using rule 63 (AssignExp)
+
+
+
+state 76
+
+    AssignExp  ->  lvalue ASSIGN AllocateRecordExp .   (rule 64)
+
+    $default	reduce using rule 64 (AssignExp)
+
+
+
+state 77
+
+    ListExpComma  ->  exp COMMA . ListExpComma   (rule 30)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 47
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    ListExpComma	go to state 91
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 78
+
+    CallExp  ->  ID LPAREN ListExpComma RPAREN .   (rule 65)
+
+    $default	reduce using rule 65 (CallExp)
+
+
+
+state 79
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    ListExpSemicolon  ->  exp . SEMICOLON ListExpSemicolon   (rule 28)
+    ListExpSemicolon  ->  exp . SEMICOLON exp   (rule 29)
+    ListExpSemicolon  ->  exp SEMICOLON exp .   (rule 29)
+
+    SEMICOLON	shift, and go to state 49
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 29 (ListExpSemicolon)
+
+
+
+state 80
+
+    ListExpSemicolon  ->  exp SEMICOLON ListExpSemicolon .   (rule 28)
+
+    $default	reduce using rule 28 (ListExpSemicolon)
+
+
+
+state 81
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    IfThenExp  ->  IF exp THEN exp .   (rule 26)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 26 (IfThenExp)
+
+
+
+state 82
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    ForExp  ->  FOR ID ASSIGN exp . TO exp DO exp   (rule 27)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+    TO  	shift, and go to state 92
+
+
+
+state 83
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN . RPAREN EQ exp   (rule 49)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN . RPAREN COLON ID EQ exp   (rule 50)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN . TypeFields RPAREN EQ exp   (rule 51)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN . TypeFields RPAREN COLON ID EQ exp   (rule 52)
+
+    ID  	shift, and go to state 93
+    RPAREN	shift, and go to state 94
+
+    TypeFields	go to state 95
+
+
+
+state 84
+
+    VariableDeclaration  ->  VAR ID COLON . ID   (rule 42)
+    VariableDeclaration  ->  VAR ID COLON . ID ASSIGN exp   (rule 46)
+    VariableDeclaration  ->  VAR ID COLON . ID ASSIGN AllocateArrayExp   (rule 47)
+    VariableDeclaration  ->  VAR ID COLON . ID ASSIGN AllocateRecordExp   (rule 48)
+
+    ID  	shift, and go to state 96
+
+
+
+state 85
+
+    VariableDeclaration  ->  VAR ID ASSIGN . exp   (rule 43)
+    VariableDeclaration  ->  VAR ID ASSIGN . AllocateArrayExp   (rule 44)
+    VariableDeclaration  ->  VAR ID ASSIGN . AllocateRecordExp   (rule 45)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 73
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 97
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    AllocateArrayExp	go to state 98
+    AllocateRecordExp	go to state 99
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 86
+
+    TypeDeclaration  ->  TYPE ID EQ . ID   (rule 35)
+    TypeDeclaration  ->  TYPE ID EQ . ARRAY OF ID   (rule 36)
+    TypeDeclaration  ->  TYPE ID EQ . LBRACE TypeFields RBRACE   (rule 37)
+
+    ID  	shift, and go to state 100
+    LBRACE	shift, and go to state 101
+    ARRAY	shift, and go to state 102
+
+
+
+state 87
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    LetExp  ->  LET declarations IN exp . END   (rule 58)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+    END 	shift, and go to state 103
+
+
+
+state 88
+
+    lvalue  ->  lvalue LBRACK exp RBRACK .   (rule 61)
+
+    $default	reduce using rule 61 (lvalue)
+
+
+
+state 89
+
+    AllocateArrayExp  ->  ID LBRACK . INT RBRACK OF NIL   (rule 38)
+    AllocateArrayExp  ->  ID LBRACK . INT RBRACK OF INT   (rule 39)
+    AllocateArrayExp  ->  ID LBRACK . INT RBRACK OF FLOAT   (rule 40)
+
+    INT 	shift, and go to state 104
+
+
+
+state 90
+
+    AllocateRecordExp  ->  ID LBRACE . ListExpComma RBRACE   (rule 41)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 47
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    ListExpComma	go to state 105
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 91
+
+    ListExpComma  ->  exp COMMA ListExpComma .   (rule 30)
+
+    $default	reduce using rule 30 (ListExpComma)
+
+
+
+state 92
+
+    ForExp  ->  FOR ID ASSIGN exp TO . exp DO exp   (rule 27)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 106
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 93
+
+    TypeFields  ->  ID . COLON ID COMMA TypeFields   (rule 33)
+    TypeFields  ->  ID . COLON ID   (rule 34)
+
+    COLON	shift, and go to state 107
+
+
+
+state 94
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN . EQ exp   (rule 49)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN . COLON ID EQ exp   (rule 50)
+
+    COLON	shift, and go to state 108
+    EQ  	shift, and go to state 109
+
+
+
+state 95
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields . RPAREN EQ exp   (rule 51)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields . RPAREN COLON ID EQ exp   (rule 52)
+
+    RPAREN	shift, and go to state 110
+
+
+
+state 96
+
+    VariableDeclaration  ->  VAR ID COLON ID .   (rule 42)
+    VariableDeclaration  ->  VAR ID COLON ID . ASSIGN exp   (rule 46)
+    VariableDeclaration  ->  VAR ID COLON ID . ASSIGN AllocateArrayExp   (rule 47)
+    VariableDeclaration  ->  VAR ID COLON ID . ASSIGN AllocateRecordExp   (rule 48)
+
+    ASSIGN	shift, and go to state 111
+
+    $default	reduce using rule 42 (VariableDeclaration)
+
+
+
+state 97
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    VariableDeclaration  ->  VAR ID ASSIGN exp .   (rule 43)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 43 (VariableDeclaration)
+
+
+
+state 98
+
+    VariableDeclaration  ->  VAR ID ASSIGN AllocateArrayExp .   (rule 44)
+
+    $default	reduce using rule 44 (VariableDeclaration)
+
+
+
+state 99
+
+    VariableDeclaration  ->  VAR ID ASSIGN AllocateRecordExp .   (rule 45)
+
+    $default	reduce using rule 45 (VariableDeclaration)
+
+
+
+state 100
+
+    TypeDeclaration  ->  TYPE ID EQ ID .   (rule 35)
+
+    $default	reduce using rule 35 (TypeDeclaration)
+
+
+
+state 101
+
+    TypeDeclaration  ->  TYPE ID EQ LBRACE . TypeFields RBRACE   (rule 37)
+
+    ID  	shift, and go to state 93
+
+    TypeFields	go to state 112
+
+
+
+state 102
+
+    TypeDeclaration  ->  TYPE ID EQ ARRAY . OF ID   (rule 36)
+
+    OF  	shift, and go to state 113
+
+
+
+state 103
+
+    LetExp  ->  LET declarations IN exp END .   (rule 58)
+
+    $default	reduce using rule 58 (LetExp)
+
+
+
+state 104
+
+    AllocateArrayExp  ->  ID LBRACK INT . RBRACK OF NIL   (rule 38)
+    AllocateArrayExp  ->  ID LBRACK INT . RBRACK OF INT   (rule 39)
+    AllocateArrayExp  ->  ID LBRACK INT . RBRACK OF FLOAT   (rule 40)
+
+    RBRACK	shift, and go to state 114
+
+
+
+state 105
+
+    AllocateRecordExp  ->  ID LBRACE ListExpComma . RBRACE   (rule 41)
+
+    RBRACE	shift, and go to state 115
+
+
+
+state 106
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    ForExp  ->  FOR ID ASSIGN exp TO exp . DO exp   (rule 27)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+    DO  	shift, and go to state 116
+
+
+
+state 107
+
+    TypeFields  ->  ID COLON . ID COMMA TypeFields   (rule 33)
+    TypeFields  ->  ID COLON . ID   (rule 34)
+
+    ID  	shift, and go to state 117
+
+
+
+state 108
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN COLON . ID EQ exp   (rule 50)
+
+    ID  	shift, and go to state 118
+
+
+
+state 109
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN EQ . exp   (rule 49)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 119
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 110
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN . EQ exp   (rule 51)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN . COLON ID EQ exp   (rule 52)
+
+    COLON	shift, and go to state 120
+    EQ  	shift, and go to state 121
+
+
+
+state 111
+
+    VariableDeclaration  ->  VAR ID COLON ID ASSIGN . exp   (rule 46)
+    VariableDeclaration  ->  VAR ID COLON ID ASSIGN . AllocateArrayExp   (rule 47)
+    VariableDeclaration  ->  VAR ID COLON ID ASSIGN . AllocateRecordExp   (rule 48)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 73
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 122
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    AllocateArrayExp	go to state 123
+    AllocateRecordExp	go to state 124
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 112
+
+    TypeDeclaration  ->  TYPE ID EQ LBRACE TypeFields . RBRACE   (rule 37)
+
+    RBRACE	shift, and go to state 125
+
+
+
+state 113
+
+    TypeDeclaration  ->  TYPE ID EQ ARRAY OF . ID   (rule 36)
+
+    ID  	shift, and go to state 126
+
+
+
+state 114
+
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK . OF NIL   (rule 38)
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK . OF INT   (rule 39)
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK . OF FLOAT   (rule 40)
+
+    OF  	shift, and go to state 127
+
+
+
+state 115
+
+    AllocateRecordExp  ->  ID LBRACE ListExpComma RBRACE .   (rule 41)
+
+    $default	reduce using rule 41 (AllocateRecordExp)
+
+
+
+state 116
+
+    ForExp  ->  FOR ID ASSIGN exp TO exp DO . exp   (rule 27)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 128
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 117
+
+    TypeFields  ->  ID COLON ID . COMMA TypeFields   (rule 33)
+    TypeFields  ->  ID COLON ID .   (rule 34)
+
+    COMMA	shift, and go to state 129
+
+    $default	reduce using rule 34 (TypeFields)
+
+
+
+state 118
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN COLON ID . EQ exp   (rule 50)
+
+    EQ  	shift, and go to state 130
+
+
+
+state 119
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN EQ exp .   (rule 49)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 49 (FunctionDeclaration)
+
+
+
+state 120
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN COLON . ID EQ exp   (rule 52)
+
+    ID  	shift, and go to state 131
+
+
+
+state 121
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN EQ . exp   (rule 51)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 132
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 122
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    VariableDeclaration  ->  VAR ID COLON ID ASSIGN exp .   (rule 46)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 46 (VariableDeclaration)
+
+
+
+state 123
+
+    VariableDeclaration  ->  VAR ID COLON ID ASSIGN AllocateArrayExp .   (rule 47)
+
+    $default	reduce using rule 47 (VariableDeclaration)
+
+
+
+state 124
+
+    VariableDeclaration  ->  VAR ID COLON ID ASSIGN AllocateRecordExp .   (rule 48)
+
+    $default	reduce using rule 48 (VariableDeclaration)
+
+
+
+state 125
+
+    TypeDeclaration  ->  TYPE ID EQ LBRACE TypeFields RBRACE .   (rule 37)
+
+    $default	reduce using rule 37 (TypeDeclaration)
+
+
+
+state 126
+
+    TypeDeclaration  ->  TYPE ID EQ ARRAY OF ID .   (rule 36)
+
+    $default	reduce using rule 36 (TypeDeclaration)
+
+
+
+state 127
+
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK OF . NIL   (rule 38)
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK OF . INT   (rule 39)
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK OF . FLOAT   (rule 40)
+
+    INT 	shift, and go to state 133
+    FLOAT	shift, and go to state 134
+    NIL 	shift, and go to state 135
+
+
+
+state 128
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    ForExp  ->  FOR ID ASSIGN exp TO exp DO exp .   (rule 27)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 27 (ForExp)
+
+
+
+state 129
+
+    TypeFields  ->  ID COLON ID COMMA . TypeFields   (rule 33)
+
+    ID  	shift, and go to state 93
+
+    TypeFields	go to state 136
+
+
+
+state 130
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN COLON ID EQ . exp   (rule 50)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 137
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 131
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN COLON ID . EQ exp   (rule 52)
+
+    EQ  	shift, and go to state 138
+
+
+
+state 132
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN EQ exp .   (rule 51)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 51 (FunctionDeclaration)
+
+
+
+state 133
+
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK OF INT .   (rule 39)
+
+    $default	reduce using rule 39 (AllocateArrayExp)
+
+
+
+state 134
+
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK OF FLOAT .   (rule 40)
+
+    $default	reduce using rule 40 (AllocateArrayExp)
+
+
+
+state 135
+
+    AllocateArrayExp  ->  ID LBRACK INT RBRACK OF NIL .   (rule 38)
+
+    $default	reduce using rule 38 (AllocateArrayExp)
+
+
+
+state 136
+
+    TypeFields  ->  ID COLON ID COMMA TypeFields .   (rule 33)
+
+    $default	reduce using rule 33 (TypeFields)
+
+
+
+state 137
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN RPAREN COLON ID EQ exp .   (rule 50)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 50 (FunctionDeclaration)
+
+
+
+state 138
+
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN COLON ID EQ . exp   (rule 52)
+
+    INT 	shift, and go to state 1
+    FLOAT	shift, and go to state 2
+    STRING	shift, and go to state 3
+    ID  	shift, and go to state 4
+    LPAREN	shift, and go to state 5
+    IF  	shift, and go to state 6
+    FOR 	shift, and go to state 7
+    LET 	shift, and go to state 8
+
+    exp 	go to state 139
+    OpExp	go to state 10
+    IfThenExp	go to state 11
+    ForExp	go to state 12
+    SequenceExp	go to state 13
+    LetExp	go to state 14
+    lvalue	go to state 15
+    AssignExp	go to state 16
+    CallExp	go to state 17
+
+
+
+state 139
+
+    OpExp  ->  exp . PLUS exp   (rule 14)
+    OpExp  ->  exp . MINUS exp   (rule 15)
+    OpExp  ->  exp . TIMES exp   (rule 16)
+    OpExp  ->  exp . DIVIDE exp   (rule 17)
+    OpExp  ->  exp . EQ exp   (rule 18)
+    OpExp  ->  exp . NEQ exp   (rule 19)
+    OpExp  ->  exp . LT exp   (rule 20)
+    OpExp  ->  exp . LE exp   (rule 21)
+    OpExp  ->  exp . GT exp   (rule 22)
+    OpExp  ->  exp . GE exp   (rule 23)
+    OpExp  ->  exp . AND exp   (rule 24)
+    OpExp  ->  exp . OR exp   (rule 25)
+    FunctionDeclaration  ->  FUNCTION ID LPAREN TypeFields RPAREN COLON ID EQ exp .   (rule 52)
+
+    PLUS	shift, and go to state 31
+    MINUS	shift, and go to state 32
+    TIMES	shift, and go to state 33
+    DIVIDE	shift, and go to state 34
+    EQ  	shift, and go to state 35
+    NEQ 	shift, and go to state 36
+    LT  	shift, and go to state 37
+    LE  	shift, and go to state 38
+    GT  	shift, and go to state 39
+    GE  	shift, and go to state 40
+    AND 	shift, and go to state 41
+    OR  	shift, and go to state 42
+
+    $default	reduce using rule 52 (FunctionDeclaration)
+
+
+
+state 140
+
+    $   	go to state 141
+
+
+
+state 141
+
+    $   	go to state 142
+
+
+
+state 142
+
+    $default	accept

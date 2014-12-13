@@ -1,0 +1,11 @@
+let
+
+	type intArray = array of int
+	var grades:intArray := intArray[6] of 80
+
+in
+(
+	grades[10]
+)
+
+end

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\COMMON_C_FILES\errormsg.c" />
+    <ClCompile Include="..\..\COMMON_C_FILES\temp.c" />
+    <ClCompile Include="..\..\COMMON_C_FILES\tree.c" />
+    <ClCompile Include="..\..\COMMON_C_FILES\util.c" />
+    <ClCompile Include="..\Semantic_Analysis_Tiger\Bison\tiger.tab.c" />
+    <ClCompile Include="..\Semantic_Analysis_Tiger\Flex\lex.yy.c" />
+    <ClCompile Include="absyn.c" />
+    <ClCompile Include="ABSYN_Print.c" />
+    <ClCompile Include="env.c" />
+    <ClCompile Include="IR.c" />
+    <ClCompile Include="IR_Print.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="MIPS_asm.c" />
+    <ClCompile Include="MIPS_frame.c" />
+    <ClCompile Include="parse.c" />
+    <ClCompile Include="prabsyn.c" />
+    <ClCompile Include="semant.c" />
+    <ClCompile Include="symbol.c" />
+    <ClCompile Include="table.c" />
+    <ClCompile Include="types.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\COMMON_H_FILES\absyn.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\env.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\errormsg.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\frame.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\parse.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\prabsyn.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\printtree.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\semant.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\symbol.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\table.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\temp.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\tree.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\types.h" />
+    <ClInclude Include="..\..\COMMON_H_FILES\util.h" />
+    <ClInclude Include="..\Semantic_Analysis_Tiger\Bison\tiger.tab.h" />
+    <ClInclude Include="asm.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Input-Record.txt" />
+    <None Include="Input.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Input-ArrayOutOfBounds.txt" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{2AAFB248-DC0C-4EA6-9C07-9573692799DC}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>CodeGeneration</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

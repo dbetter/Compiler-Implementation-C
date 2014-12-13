@@ -1,0 +1,116 @@
+﻿Build started 5/17/2014 11:54:34 AM.
+     1>Project "C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Flex\Flex.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ccl.c dfa.c ecs.c gen.c initscan.c main.c misc.c nfa.c parse.c skel.c sym.c tblcmp.c yylex.c
+         yylex.c
+         tblcmp.c
+         sym.c
+         skel.c
+         parse.c
+     1>./parse.y(798): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>./parse.y(822): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>./parse.y(844): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>./parse.y(866): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>./parse.y(890): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>y.tab.c(618): warning C4102: 'yyerrlab' : unreferenced label
+     1>y.tab.c(613): warning C4102: 'yynewerror' : unreferenced label
+         nfa.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\nfa.c(216): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\nfa.c(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\nfa.c(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+         misc.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(47): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(352): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(365): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(377): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(422): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(520): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(613): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\misc.c(735): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+         main.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(288): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(293): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(226) : see declaration of 'freopen'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(301): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(356): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(278) : see declaration of 'unlink'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(379): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(278) : see declaration of 'unlink'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(871): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\main.c(1137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+         initscan.c
+     1>scan.l(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.l(144): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.l(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.l(280): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.l(404): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.l(439): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.l(478): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>scan.c(3334): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(718) : see declaration of 'fileno'
+     1>scan.l(674): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(211) : see declaration of 'fopen'
+         gen.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\gen.c(608): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\gen.c(611): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\gen.c(616): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\flex\gen.c(713): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+         ecs.c
+         dfa.c
+         ccl.c
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Flex\Debug\Flex.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Flex\Debug\Flex.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Flex\Debug\Flex.lib" /MACHINE:X86 Debug\ccl.obj
+         Debug\dfa.obj
+         Debug\ecs.obj
+         Debug\gen.obj
+         Debug\initscan.obj
+         Debug\main.obj
+         Debug\misc.obj
+         Debug\nfa.obj
+         Debug\parse.obj
+         Debug\skel.obj
+         Debug\sym.obj
+         Debug\tblcmp.obj
+         Debug\yylex.obj
+         Flex.vcxproj -> C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Flex\Debug\Flex.exe
+     1>Done Building Project "C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Flex\Flex.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.21

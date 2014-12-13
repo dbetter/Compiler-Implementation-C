@@ -1,0 +1,155 @@
+﻿Build started 5/16/2014 4:37:28 PM.
+     1>Project "C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Bison\Bison.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D STDC_HEADERS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt alloca.c allocate.c closure.c conflicts.c derives.c files.c getargs.c getopt.c getopt1.c gram.c lalr.c lex.c LR0.c main.c nullable.c output.c print.c reader.c reduce.c symtab.c version.c warshall.c
+         warshall.c
+         version.c
+         symtab.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\symtab.c(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\symtab.c(145): warning C4013: 'free' undefined; assuming extern returning int
+         reduce.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reduce.c(96): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reduce.c(164): warning C4013: 'free' undefined; assuming extern returning int
+         reader.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(324): warning C4013: 'printable_version' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(324): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(497): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(581): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(663): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(726): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(920): warning C4013: 'atoi' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(1422): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\reader.c(1764): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+         print.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(281): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(303): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(338): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(344): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(350): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(357): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(359): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\print.c(366): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+         output.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\output.c(277): warning C4013: 'free' undefined; assuming extern returning int
+         nullable.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\nullable.c(125): warning C4013: 'free' undefined; assuming extern returning int
+         main.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(120): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(178): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(190): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(214): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(226): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\main.c(237): warning C4013: 'abort' undefined; assuming extern returning int
+         LR0.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\lr0.c(139): warning C4013: 'free' undefined; assuming extern returning int
+         lex.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\lex.c(325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\lex.c(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+         lalr.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\lalr.c(330): warning C4013: 'free' undefined; assuming extern returning int
+         gram.c
+         getopt1.c
+         getopt.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\getopt.c(340): warning C4013: 'getpid' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\getopt.c(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\getopt.c(345): warning C4013: 'strlen' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\getopt.c(465): warning C4013: 'strcmp' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\getopt.c(541): warning C4013: 'strncmp' undefined; assuming extern returning int
+         getargs.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\getargs.c(106): warning C4013: 'exit' undefined; assuming extern returning int
+         files.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(65): warning C4273: 'perror' : inconsistent dll linkage
+                 c:\program files (x86)\vc\include\stdio.h(258) : see previous definition of 'perror'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(161): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\string.h(118) : see declaration of 'strcat'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(259): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(278) : see declaration of 'unlink'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(260): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(278) : see declaration of 'unlink'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(261): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(278) : see declaration of 'unlink'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(262): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(278) : see declaration of 'unlink'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(108): warning C4101: 'cp' : unreferenced local variable
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(295): warning C4101: 'cp' : unreferenced local variable
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\files.c(412): warning C4013: 'exit' undefined; assuming extern returning int
+         derives.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\derives.c(80): warning C4013: 'free' undefined; assuming extern returning int
+         conflicts.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\conflicts.c(262): warning C4013: 'free' undefined; assuming extern returning int
+         closure.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\closure.c(150): warning C4013: 'free' undefined; assuming extern returning int
+         Generating Code...
+         Compiling...
+         allocate.c
+         alloca.c
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\alloca.c(198): warning C4013: 'free' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\compilation_for_students_step_10_liveness_analysis\step_10_liveness_analysis\verifycodegeneration\bison\alloca.c(222): warning C4013: 'abort' undefined; assuming extern returning int
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Bison\Debug\Bison.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Bison\Debug\Bison.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Bison\Debug\Bison.lib" /MACHINE:X86 Debug\alloca.obj
+         Debug\allocate.obj
+         Debug\closure.obj
+         Debug\conflicts.obj
+         Debug\derives.obj
+         Debug\files.obj
+         Debug\getargs.obj
+         Debug\getopt.obj
+         Debug\getopt1.obj
+         Debug\gram.obj
+         Debug\lalr.obj
+         Debug\lex.obj
+         Debug\LR0.obj
+         Debug\main.obj
+         Debug\nullable.obj
+         Debug\output.obj
+         Debug\print.obj
+         Debug\reader.obj
+         Debug\reduce.obj
+         Debug\symtab.obj
+         Debug\version.obj
+         Debug\warshall.obj
+         Bison.vcxproj -> C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Bison\Debug\Bison.exe
+     1>Done Building Project "C:\Users\danie_000\Desktop\compilers-q7\Compilation_For_Students_Step_10_Liveness_Analysis\Step_10_Liveness_Analysis\VerifyCodeGeneration\Bison\Bison.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52

@@ -1,0 +1,10 @@
+let
+
+	type Numbers = {first:int, second:int, third:int, fourth:int, fifth: int}
+	var myNum := Numbers{1, 2, 3, 4, 5}
+
+in
+
+	myNum->fourth
+
+end

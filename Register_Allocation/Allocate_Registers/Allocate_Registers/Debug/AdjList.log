@@ -1,0 +1,21 @@
+﻿Build started 6/26/2014 3:03:19 PM.
+     1>Project "C:\Users\danie_000\Desktop\compilers-q7\AdjList\AdjList\AdjList.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(177): warning C4047: 'function' : 'int *' differs in levels of indirection from 'int (*)[8]'
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(177): warning C4024: 'allocate_free_reg' : different types for formal and actual parameter 1
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(220): warning C4550: expression evaluates to a function which is missing an argument list
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(209): warning C4101: 'temp_asm_line_cnt' : unreferenced local variable
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(322): warning C4101: 'temp_cnt' : unreferenced local variable
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(395): warning C4013: 'strlen' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(407): warning C4013: 'strncmp' undefined; assuming extern returning int
+     1>c:\users\danie_000\desktop\compilers-q7\adjlist\adjlist\main.c(408): warning C4013: 'strcpy' undefined; assuming extern returning int
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\danie_000\Desktop\compilers-q7\AdjList\Debug\AdjList.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\danie_000\Desktop\compilers-q7\AdjList\Debug\AdjList.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\danie_000\Desktop\compilers-q7\AdjList\Debug\AdjList.lib" /MACHINE:X86 Debug\main.obj
+         AdjList.vcxproj -> C:\Users\danie_000\Desktop\compilers-q7\AdjList\Debug\AdjList.exe
+     1>Done Building Project "C:\Users\danie_000\Desktop\compilers-q7\AdjList\AdjList\AdjList.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76

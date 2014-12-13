@@ -1,0 +1,20 @@
+﻿Build started 24/01/2014 05:44:08.
+     1>Project "C:\Users\Oren Ish Shalom\Documents\Job\MTA\2013-2014\semester_02\Compilation\Compilation_For_Lecturer\Step_09_Code_Generation_Verification\VerifyCodeGeneration\Verify\Verify.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Verify.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Verify.unsuccessfulbuild".
+         Touching "Debug\Verify.lastbuildstate".
+     1>Done Building Project "C:\Users\Oren Ish Shalom\Documents\Job\MTA\2013-2014\semester_02\Compilation\Compilation_For_Lecturer\Step_09_Code_Generation_Verification\VerifyCodeGeneration\Verify\Verify.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
